@@ -1,8 +1,3 @@
 # First Title
 
-   This is my first README.md file.
-
-## Subtitle
-
-
-
+This is my first README.md file.
